@@ -1,7 +1,7 @@
 #ifndef WORLD_HPP
 #define WORLD_HPP
 
-#include "object.h"
+#include <object.h>
 #include <vector>
 
 class World
